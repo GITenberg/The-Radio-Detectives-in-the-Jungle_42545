@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5100
     wikipedia: http://en.wikipedia.org/wiki/Alpheus_Hyatt_Verrill
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42545#The-Radio-Detectives-in-the-Jungle
 gutenberg_issued: '2013-04-15'
 gutenberg_type: Text
 identifiers:
